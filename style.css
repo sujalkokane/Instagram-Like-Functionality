@@ -34,7 +34,7 @@ html{
     top: 50%;
     left: 50%;
     animation: heartGrow 0.8s linear;
-    -webkit-animation: heartGrow 0.8s linear ;
+    -webkit-animation: heartGrow 1.2s linear ;
 }
 
 @keyframes heartGrow{
